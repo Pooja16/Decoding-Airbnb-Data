@@ -8,7 +8,7 @@ The goal was to deduce the most important factors that dictate the price of airb
 
 - [Description of project on Medium]( https://medium.com/@poojapurushothaman1512/smart-tricks-that-will-help-you-ave-for-your-next-airbnb-stay-bfdc0e1e498)
 - [Code in Python]( https://github.com/Pooja16/Decoding-Airbnb-Data/blob/master/AirbnbMultipleCityDataExploration.ipynb)
--[Dataset] ]( https://github.com/Pooja16/Decoding-Airbnb-Data/blob/master/Dataset)
+- [Dataset]( https://github.com/Pooja16/Decoding-Airbnb-Data/blob/master/Dataset)
 
 ## Software:
 
