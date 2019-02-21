@@ -7,12 +7,15 @@ The goal was to deduce the most important factors that dictate the price of airb
 ## Table of Contents:
 
 - [Description of project on Medium]( https://medium.com/@poojapurushothaman1512/smart-tricks-that-will-help-you-ave-for-your-next-airbnb-stay-bfdc0e1e498)
+
 This includes the thorough analysis and the results of the analysis on Medium.
 
 - [Code in Python]( https://github.com/Pooja16/Decoding-Airbnb-Data/blob/master/AirbnbMultipleCityDataExploration.ipynb)
+
 This python file has all the code that was used to put through the entire analysis. It also walks through the standard CRISP-DM process.
 
 - [Dataset]( https://github.com/Pooja16/Decoding-Airbnb-Data/blob/master/Dataset)
+
 This includes the dataset that was used for the analysis.
 
 ## Summary of results of analysis:
@@ -25,7 +28,7 @@ The next most important metric that determines the price is the number of baths.
 
 The next metric is the distance from the city center. If we have a vehicle and do not mind driving extra minutes to the city, staying away would definitely be a big win.
 
-The next is the accommodation capacity. It is the least for singles. 
+The next is the accommodation capacity. The price is least for single occupancy. 
 
 Then comes the number of bedrooms. We can save by sharing bedroom with travel mates or family rather than going for additional rooms.
 
